@@ -13,6 +13,4 @@
 \contentsline {section}{\nonumberline Posters}{31}{section*.22}%
 \contentsline {section}{\nonumberline Invited Talks}{48}{section*.24}%
 \contentsline {chapter}{\nonumberline List of Participants}{50}{chapter*.25}%
-\contentsline {chapter}{\nonumberline Conference Proceedings}{53}{chapter*.26}%
-\contentsline {section}{\nonumberline Posters}{53}{section*.28}%
 \providecommand \tocbasic@end@toc@file {}\tocbasic@end@toc@file 
