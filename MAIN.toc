@@ -1,16 +1,12 @@
-\babel@toc {english}{}\relax 
+\babel@toc {english}{}
 \contentsline {chapter}{\nonumberline About}{3}{chapter*.2}%
-\contentsline {section}{\nonumberline 27th International Symposium on Eletronic Theses and Dissertations}{3}{section*.4}%
-\contentsline {section}{\nonumberline Local Conference Organizing committee}{4}{section*.6}%
-\contentsline {section}{\nonumberline Volunteers}{4}{section*.8}%
-\contentsline {section}{\nonumberline Programme committee}{4}{section*.10}%
-\contentsline {chapter}{\nonumberline Partner Institutions and Sponsors}{5}{chapter*.11}%
-\contentsline {section}{\nonumberline Gold, Silver and Bronze Sponsors}{5}{section*.13}%
-\contentsline {section}{\nonumberline Partner Institutions/Organisations}{5}{section*.15}%
-\contentsline {chapter}{\nonumberline List of Abstracts}{6}{chapter*.16}%
-\contentsline {section}{\nonumberline Workshops}{6}{section*.18}%
-\contentsline {section}{\nonumberline Full Papers}{10}{section*.20}%
-\contentsline {section}{\nonumberline Posters}{31}{section*.22}%
-\contentsline {section}{\nonumberline Invited Talks}{48}{section*.24}%
-\contentsline {chapter}{\nonumberline List of Participants}{50}{chapter*.25}%
-\providecommand \tocbasic@end@toc@file {}\tocbasic@end@toc@file 
+\contentsline {section}{\nonumberline 27th International Symposium on Eletronic Theses and Dissertations}{3}{section*.3}%
+\contentsline {section}{\nonumberline Local Conference Organizing committee}{4}{section*.4}%
+\contentsline {section}{\nonumberline Volunteers}{4}{section*.5}%
+\contentsline {section}{\nonumberline Programme committee}{4}{section*.6}%
+\contentsline {chapter}{\nonumberline Partner Institutions and Sponsors}{5}{chapter*.7}%
+\contentsline {section}{\nonumberline Gold, Silver and Bronze Sponsors}{5}{section*.8}%
+\contentsline {section}{\nonumberline Partner Institutions/Organisations}{5}{section*.9}%
+\contentsline {chapter}{\nonumberline Full Papers Track}{6}{chapter*.10}%
+\contentsline {chapter}{\nonumberline Posters Track}{28}{chapter*.11}%
+\contentsline {chapter}{\nonumberline Authors Index}{46}{chapter*.12}%
